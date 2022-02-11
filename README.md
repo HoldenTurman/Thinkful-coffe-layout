@@ -1,1 +1,1 @@
-# Thinkful-coffe-layout
+# Thinkful-coffee-layout
